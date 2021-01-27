@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: This is my site
 permalink: /about
 comments: true
 ---
