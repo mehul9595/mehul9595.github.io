@@ -1,23 +1,29 @@
 ---
 layout: page
-title: This is my site
+title: About Me!
 permalink: /about
-comments: true
+comments: false
 ---
-
+<!-- markdownlint-disable MD033 -->
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>
+    I have over 10+ years of experience into web application development, and building Full Stack applications from scratch. I am a passionate about technlogy and build applications that helps to solve the real problems. I like to learn new technology trends and utilize them in my projects. Also, I am an avid book reader reading mainly on self help topics and listen to podcasts.
+    <br />
+    Feel free to get in touch with me if there is any way I can help.
+</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<!-- <p class="mb-5">
+<img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+
 <h4>Documentation</h4>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p> -->
 
 </div>
 
