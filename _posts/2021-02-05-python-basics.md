@@ -10,6 +10,7 @@ featured: true
 hidden: false
 comments: false
 ---
+Basics of Python in a nutshell.
 
 ## Basics of Python
 
