@@ -1,26 +1,42 @@
 ---
 layout: post
-title:  "Python Basic"
+title:  "Python Basic's"
 author: mehul
 categories: [ python, dev ]
 tags: [python, dev]
 image: assets/images/11.jpg
-description: "Basics of Python"
+description: "Basics of Python in a nutshell"
 featured: true
 hidden: false
 comments: false
 ---
 
-### Basics of Python
+## Basics of Python
 
-Not a statically typed language.
+- Not a statically typed language.
+- completely object oriented language.
+- uses indentation for code blocks instead of {}, tabs and spaces are allowed.
+- encourages programmers to write code without boiler plate code.
+- interpreter based language.
+- every variable in python is object and we don't need to declare them before using it.
+- lists are very similar to arrays. they can contain any type of variable, and as many variables as required.
 
-completely object oriented language.
+    ``` python
+    x = [1, 2, 3]
+    ```
 
-uses indentation for code blocks instead of {}, tabs and spaces are allowed.
+    or
 
-encourages programmers to write code without boiler plate code.
+    ``` python
+    x = []
+    x.append(1)
+    x.append(2)
+    print(x)
+    ```
 
-interpreter based language.
+## Basic Operators
 
-every variable in python is object and we don't need to declare them before using it.
+- Arithmetic operators - mathematical operations like addition, subtraction, division, multiplication and modulo are supported.
+- String operators
+- Operators with Lists: using '+' operator to join two lists
+- repeating sequences: lists or strings can be repeated. for example, `` print("hello" * 3) `` will print 'hello' 3 times.
